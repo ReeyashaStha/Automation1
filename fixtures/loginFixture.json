@@ -1,0 +1,25 @@
+{
+    "validUser":{
+        "userName": "rei123@gmail.com",
+        "password": "rei123malla"
+    },
+    "invalidUser":{
+        "userName": "test@gmail.com",
+        "invalidEmail":"test@gmail.com",
+        "password": "test",
+        "password>20Character": "test123456789098765433212132344353"
+    },
+    "validContact":{
+        "firstName":"Rei",
+        "lastName":"Malla",
+        "birthdate":"2000-01-01",
+        "email":"rei123@gmail.com",
+        "phone":"98701234567",
+        "street1":"Paknajol",
+        "street2":"Paknajol",
+        "city":"kathmandu",
+        "stateProvince":"Bagmati",
+        "pastalCode":"0123",
+        "country":"Napal"
+    }
+}
